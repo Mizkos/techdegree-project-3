@@ -1,2 +1,2 @@
 # TechDegree Project 3
- My Third TechDegree Project
+Building a random quote generator, with a few little dynamic easter eggies. 
