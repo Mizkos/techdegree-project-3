@@ -142,3 +142,4 @@ window.onload = function() {
 ***/
 
 document.getElementById('load-quote').addEventListener("click", () => { printQuote(); changeBackgroundColor();}, false);
+
