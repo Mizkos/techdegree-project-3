@@ -100,7 +100,7 @@ function printQuote() {
 
   if (randomQuote.tag) {
     htmlQuote += `<span class="tag">${randomQuote.tag}</span>`
-  }
+  };
 
   htmlQuote += `</p>`;
 
